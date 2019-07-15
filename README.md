@@ -1,11 +1,9 @@
 # Leading-Papers-Robustness-Oriented-
 Some leading papers in deep learning, which focused on robustness. I think it will be helpful to NeuralFinance.
 
-本着一个原则，“代表性+省时间+有前瞻性”
+If you want to save your time and read the state-of-the-art papers, it will be really helpful for you.
 
-如果更加对神经网络在量化投资中的这个问题感兴趣，那么你完全不需要阅读以下的所有内容。我个人认为，神经网络在量化投资中最为重要的是鲁棒性，其次是结合具体策略做出的调整（包括数据的平衡，除噪声，打合适的标签等），最后是可解释性。
-
-我在下面文章中挑选了对鲁棒性研究有帮助的文章(7/45):
+**But if you are only cared about the application of deep learning in finance, I think the robustness is very important, Here are some basic and leading papers you should not miss: **
 
 1.Adam's principle.pdf
 
@@ -22,6 +20,7 @@ Some leading papers in deep learning, which focused on robustness. I think it wi
 7.A very determined man_Densely_Connected_Convolutional.pdf
 
  
+## Here are some other papers, for my Chinese readers##
 
 一、神经网络基础部分
 No1 wide_deep模型论文：
