@@ -20,7 +20,7 @@ If you want to save your time and read the state-of-the-art papers, it will be r
 7.A very determined man_Densely_Connected_Convolutional.pdf
 
  
-## Here are some other papers, for my Chinese readers##
+## Here are some other papers, for my Chinese readers
 
 一、神经网络基础部分
 No1 wide_deep模型论文：
